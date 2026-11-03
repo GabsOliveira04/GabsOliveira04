@@ -11,6 +11,19 @@ Desenvolvedor em formação — Front-end e Dados | Graduando em Sistemas de Inf
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+📂 Meus Projetos
+
+🐾 **Site PetShop — Frontend**
+> Site institucional feito com HTML e CSS
+🔗 [Acessar projeto](https://github.com/GabsOliveira04/site-petshop-frontend)
+
+🏎️ **Projeto Fórmula 1 — MySQL**
+> Banco de dados sobre pilotos, equipes e corridas
+🔗 [Acessar projeto](https://github.com/GabsOliveira04/formula1-project)
+
+🚗 **Sistema de Reservas de Carros — MySQL**
+> Gerenciamento de reservas de veículos
+🔗 [Acessar projeto](https://github.com/GabsOliveira04/car-reservation-project)
 
  📫 Contato
 - 💼 LinkedIn: [seu-link-aqui]
