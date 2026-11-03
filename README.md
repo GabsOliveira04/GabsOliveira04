@@ -1,3 +1,20 @@
+
+Olá! 👋 Sou Gabriel
+
+Desenvolvedor em formação — Front-end e Dados | Graduando em Sistemas de Informação | Sempre aprendendo algo novo!
+
+ 🚀 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+ 📫 Contato
+- 💼 LinkedIn: [seu-link-aqui]
+- 📧 Email: seu-email@exemplo.com
 🐾 Site PetShop — Frontend
 
 📌 Visão Geral
