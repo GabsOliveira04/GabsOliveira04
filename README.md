@@ -26,8 +26,8 @@ Desenvolvedor em formação — Front-end e Dados | Graduando em Sistemas de Inf
 🔗 [Acessar projeto](https://github.com/GabsOliveira04/car-reservation-project)
 
  📫 Contato
-- 💼 LinkedIn: [seu-link-aqui]
-- 📧 Email: seu-email@exemplo.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-oliveira944368433/
+- 📧 Email: gabrieloliveiraobonitao@gmail.com
 🐾 Site PetShop — Frontend
 
 📌 Visão Geral
